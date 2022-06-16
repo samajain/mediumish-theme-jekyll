@@ -48,6 +48,8 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
+pagination:
+  enabled: true
 paginate: 10
 paginate_path: /page:num/
     
